@@ -1,2 +1,4 @@
-# Projeto_Curso_Algoritmo_1
-Este projeto é sobre o curso Algoritmo e Lógica
+# PROJETO CURSO ALGORITMO 1
+
+### Este projeto é sobre o curso Algoritmo e Lógica
+
